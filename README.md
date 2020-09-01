@@ -22,7 +22,22 @@ https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD
 - Read ads (between 5&10)
 - What are companies looking for in skills, experience, competencies?
   * Answer:
-
+    * I tried to look at data engineering jobs from companies that I know operate at significant scale. The idea being that if you can work for them, you can work for anyone. 
+    * I chose roles at: 
+      * [Airbnb](https://careers.airbnb.com/positions/2122082/)
+      * [Salesforce](https://salesforce.wd1.myworkdayjobs.com/ja-JP/External_Career_Site/job/Indiana---Indianapolis/Lead-Data-Engineer_JR68123)
+      * [Facebook](https://www.facebook.com/careers/jobs/158635948109552/)
+      * [Google](https://google.jobmount.net/job-5f4b177724543f07654f57bc-cloud-data-engineer-google-professional-services-toronto-ontario)
+      * [Amazon](https://www.amazon.jobs/en/jobs/1012049/data-engineer)
+    * Observations:
+      * There's an adage in writing and filmmaking which essentially says that you should "show and not tell". The idea being that you should demonstrate what you can do, not *TELL* people what you can do. That's reflected in these job descriptions. The number of experience requirements far outweigh the skills requirements. So, for example, with the Facebook role, it doesn't have a skill requirement for Python or Java. It asks for 4+ years of experience using Python or Java. This pattern is common across all the roles. 
+      * All ask for a bachelors or masters in CS or a related field
+      * All the roles mention communication skills, albeit with different levels of specificity
+      * Hadoop is mentioned in the reqs from: Amazon and Google
+      * Java is mentioned by: Airbnb, Google and Facebook
+      * Python is mentioned by: Salesforce, Google and Facebook
+      * Every company mentions experience with big data explicitly
+    
 
 
 
